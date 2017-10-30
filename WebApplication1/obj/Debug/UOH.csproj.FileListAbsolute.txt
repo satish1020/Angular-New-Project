@@ -1,0 +1,6 @@
+C:\Projects\UFO\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Projects\UFO\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Projects\UFO\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Projects\UFO\WebApplication1\WebApplication1\obj\Debug\UOH.csproj.CoreCompileInputs.cache
+C:\Projects\UFO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Projects\UFO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
